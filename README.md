@@ -1,10 +1,10 @@
-# .colpkg file, so use Anki[https://apps.ankiweb.net/]! Its free
+# .colpkg file, so use [Anki](https://apps.ankiweb.net/) Its free
 
 ## Spaced repition is what wins the day, and Anki makes that very accessible.
 
 https://calnewport.com/deep-habits-work-with-your-whole-brain/
 
-## ^ This guy is just incredible, when it comes to productivity, and studying advice. 
+## ^ This guy is just **incredible**, when it comes to productivity, and studying advice. 
 
 
 Good resources
